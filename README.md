@@ -71,6 +71,7 @@ localAgent.sendMailWithPass({
 	subject: 'test',
 	html: '<p>1234</p>'
 })
+```
 
 ## License
 Licensed under the MIT License
