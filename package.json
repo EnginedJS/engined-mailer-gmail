@@ -1,7 +1,7 @@
 {
   "name": "engined-mailer-gmail",
   "version": "0.0.1",
-  "description": "",
+  "description": "Mailer agent with gmail service for engined",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/EnginedJS/engined-mailer-gmail.git"
   },
-  "author": "Leon Lin",
+  "author": "Leon Lin <leonlin14@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=7.4"
   },
+  "keywords": [
+    "service",
+    "engined",
+    "email",
+    "gmail"
+  ],
   "bugs": {
     "url": "https://github.com/EnginedJS/engined-mailer-gmail/issues"
   },
