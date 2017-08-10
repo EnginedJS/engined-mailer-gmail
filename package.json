@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/EnginedJS/engined-mailer-gmail#readme",
   "dependencies": {
-    "engined": "0.0.2",
+    "engined": ">=0.0.2",
     "nodemailer": "^4.0.1"
   }
 }

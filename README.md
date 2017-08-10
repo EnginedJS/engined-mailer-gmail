@@ -49,7 +49,7 @@ main();
 
 ## Send email with local mailer backend
 
-The example to show how to save file with local mailer backend:
+The example to show how to send email with local mailer backend:
 
 ```javascript
 
@@ -77,4 +77,4 @@ localAgent.sendMailWithPass({
 Licensed under the MIT License
 
 ## Authors
-Copyright(c) 2017 Leon Lin（林為志） <leonlin14@gmail.com>
+Copyright(c) 2017 Leon Lin（林為志） <<leonlin14@gmail.com>>
